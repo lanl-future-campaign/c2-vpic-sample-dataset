@@ -1,4 +1,4 @@
-**A tiny VPIC sample dataset for local development and testing purposes**
+**A tiny VPIC particle dataset for local C2 development and testing**
 
 C2 vpic sample dataset
 ================
