@@ -29,7 +29,7 @@ Particles are 48 bytes each. Each particle has 9 fields. Both particle types sha
 # Particle Schema (48 bytes per particle)
 
 ```
-8 bytes uint64_t particle_id
+8 bytes uint64_t ID             unique ID of a particle
 8 bytes uint64_t padding
 4 bytes float    x              location of particle in X direction
 4 bytes float    y              location of particle in Y direction
