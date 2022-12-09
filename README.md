@@ -42,3 +42,5 @@ Particles are 48 bytes each. Each particle has 9 fields. Both particle types sha
 ```
 
 **Acknowledgement**: C2 is developed under U.S. Government contract 89233218CNA000001 for Los Alamos National Laboratory (LANL), which is operated by Triad National Security, LLC for the U.S. Department of Energy/National Nuclear Security Administration. VPIC is a general purpose particle-in-cell simulation code developed by LANL. See https://github.com/lanl/vpic for more information.
+
+**A much larger version of this dataset (15,728,640 particles per file, 256 files, 180GB total data) is also available at ftp://hpc-ftp.lanl.gov/data/operational/vpic/LA-UR-22-31691.tar**.
